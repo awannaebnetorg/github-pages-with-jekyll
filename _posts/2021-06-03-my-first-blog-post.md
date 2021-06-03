@@ -5,7 +5,7 @@ date: 2021-06-03
 
 Name: Andrew Wanna
 
-Picture:
+Picture: ![image](https://github.com/awannaebnetorg/github-pages-with-jekyll/blob/awannaebnetorg-patch-2-1/awanna%20picture.jpg?raw=true)
 
 
 Brag Sheet: 
