@@ -7,6 +7,9 @@ Name: Andrew Wanna
 
 Picture: ![image](https://github.com/awannaebnetorg/github-pages-with-jekyll/blob/awannaebnetorg-patch-2-1/awanna%20picture.jpg?raw=true)
 
+Social Media:
+
+Instagram - andrew.wanna
 
 Brag Sheet: 
 1. Bronze 2 rank in valorant
